@@ -6,4 +6,4 @@ def square_array(array)
   sq
 end
 
-square_array(array)
+puts square_array(array)
