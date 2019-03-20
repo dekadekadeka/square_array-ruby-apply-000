@@ -1,3 +1,3 @@
 def square_array(array)
-  array.each {|x| exp(x) }
+  array.each {|x| x**2}
 end
