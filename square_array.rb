@@ -4,6 +4,7 @@ def square_array(array)
   sq = []
   array.each do |x| 
     x**2
+    sq << x
   end
 end
 
